@@ -36,10 +36,12 @@ formal analysis, investigation, methodology, data curation
 
 
 **Daniel Belteki**
+
 data curation
 
 
 **Yichang Sun**
+
 data curation
 
 Others tbc
